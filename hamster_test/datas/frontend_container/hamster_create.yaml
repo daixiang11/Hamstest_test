@@ -1,0 +1,37 @@
+---
+- case_id: 01
+  case_title: "创建Container项目Vue"
+  element: { em1: '//*[@id="layout-default"]/section/main/div[1]/div[1]/button',em2: '//*[@id="form_item_type"]/label[2]/span[1]/input',em02: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/form/div[4]/div[2]/div/div/div/label[2]/span[1]/input',em3: '//*[@id="layout-default"]/section/main/div/div[2]/div[2]/button',em4: '//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[3]/div[1]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/div/button',em6: '//*[@id="app"]/div',em7: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button[2]',em8: 'ant-input',em9: 'create-project-btn',em10: '//*[@id="layout-default"]/section/main/div[2]/button/span',em11: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[1]/div/div[1]' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_Vue"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: "Vue.js"
+
+- case_id: 02
+  case_title: "创建Container项目React"
+  element: { em1: '//*[@id="layout-default"]/section/main/div[1]/div[1]/button',em2: '//*[@id="form_item_type"]/label[2]/span[1]/input',em02: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/form/div[4]/div[2]/div/div/div/label[2]/span[1]/input',em3: '//*[@id="layout-default"]/section/main/div/div[2]/div[2]/button',em4: '//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[3]/div[2]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/div/button',em6: '//*[@id="app"]/div',em7: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button[2]',em8: 'ant-input',em9: 'create-project-btn',em10: '//*[@id="layout-default"]/section/main/div[2]/button/span',em11: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[1]/div/div[1]' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_React"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: "React.js"
+
+- case_id: 03
+  case_title: "创建Container项目Nuxt"
+  element: { em1: '//*[@id="layout-default"]/section/main/div[1]/div[1]/button',em2: '//*[@id="form_item_type"]/label[2]/span[1]/input',em02: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/form/div[4]/div[2]/div/div/div/label[2]/span[1]/input',em3: '//*[@id="layout-default"]/section/main/div/div[2]/div[2]/button',em4: '//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[3]/div[3]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/div/button',em6: '//*[@id="app"]/div',em7: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button[2]',em8: 'ant-input',em9: 'create-project-btn',em10: '//*[@id="layout-default"]/section/main/div[2]/button/span',em11: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[1]/div/div[1]' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_Nuxt"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: "Nuxt.js"
+
+- case_id: 04
+  case_title: "创建Container项目Next"
+  element: { em1: '//*[@id="layout-default"]/section/main/div[1]/div[1]/button',em2: '//*[@id="form_item_type"]/label[2]/span[1]/input',em02: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/form/div[4]/div[2]/div/div/div/label[2]/span[1]/input',em3: '//*[@id="layout-default"]/section/main/div/div[2]/div[2]/button',em4: '//*[@id="layout-default"]/section/main/div/div[2]/div/div/div[3]/div[4]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/div/button',em6: '//*[@id="app"]/div',em7: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button[2]',em8: 'ant-input',em9: 'create-project-btn',em10: '//*[@id="layout-default"]/section/main/div[2]/button/span',em11: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[1]/div/div[1]' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_Next"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: "Next.js"
+

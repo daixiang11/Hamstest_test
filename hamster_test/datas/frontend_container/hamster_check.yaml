@@ -1,0 +1,36 @@
+---
+- case_id: c1
+  case_title: "检查项目Vue_Container"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[4]/div/div[1]/div[2]/label[1]/label[2]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[4]/div/div[2]/div/div[2]/div[2]',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[4]/div/div[2]/div/div[2]/div[3]',em4: '//*[@id="layout-default"]/section/main/div/div[3]/div/div[1]/span[2]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div/div[2]',em6: '//*[@id="layout-default"]/section/main/div/div[1]/div/span[1]/span' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_Vue"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Full Log',"tx2": 'Successful' }
+
+- case_id: c1
+  case_title: "检查项目React_Container"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[3]/div/div[1]/div[2]/label[1]/label[2]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[3]/div/div[2]/div/div[2]/div[2]',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[3]/div/div[2]/div/div[2]/div[3]',em4: '//*[@id="layout-default"]/section/main/div/div[3]/div/div[1]/span[2]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div/div[2]',em6: '//*[@id="layout-default"]/section/main/div/div[1]/div/span[1]/span' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_React"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Full Log',"tx2": 'Successful' }
+
+- case_id: c1
+  case_title: "检查项目_Container_Nuxt"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[1]/div[2]/label[1]/label[2]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[2]/div/div[2]/div[2]',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[2]/div/div[2]/div[3]',em4: '//*[@id="layout-default"]/section/main/div/div[3]/div/div[1]/span[2]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div/div[2]',em6: '//*[@id="layout-default"]/section/main/div/div[1]/div/span[1]/span' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_Nuxt"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Full Log',"tx2": 'Successful' }
+
+- case_id: c1
+  case_title: "检查项目Vue_Next"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[2]/label[1]/label[2]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[2]/div/div[2]/div[2]',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[2]/div/div[2]/div[3]',em4: '//*[@id="layout-default"]/section/main/div/div[3]/div/div[1]/span[2]',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div/div[2]',em6: '//*[@id="layout-default"]/section/main/div/div[1]/div/span[1]/span' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_Container_Next"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Full Log',"tx2": 'Successful' }

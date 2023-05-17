@@ -1,0 +1,16 @@
+---
+- case_id: 01
+  case_title: "删除项目IPFS_Vue"
+  element: { em1: '//*[@id="dialog-show-repo-delete-menu-dialog"]/span/span',em2: '//*[@id="verification_field"]',em3: '//*[@id="repo-delete-proceed-button"]/span/span',em4: '//*[@id="sudo"]/sudo-credential-options/div[2]/form/div/div/button',em5: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[1]/div[1]/div/div[1]',em6: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button[1]',em7: '//*[@id="htmlRoot"]/body/div[2]/div/div[2]/div/div[2]/div/div[3]/button[2]' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'FrontEnd_IPFS_Vue1'
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+
+- case_id: 02
+  case_title: "删除项目IPFS_React"
+  element: { em1: '//*[@id="dialog-show-repo-delete-menu-dialog"]/span/span',em2: '//*[@id="verification_field"]',em3: '//*[@id="repo-delete-proceed-button"]/span/span',em4: '//*[@id="sudo"]/sudo-credential-options/div[2]/form/div/div/button',em5: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[1]/div/div[1]',em6: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button[1]',em7: '//*[@id="htmlRoot"]/body/div[2]/div/div[2]/div/div[2]/div/div[3]/button[2]' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'FrontEnd_IPFS_React'
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects

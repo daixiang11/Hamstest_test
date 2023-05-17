@@ -1,0 +1,15 @@
+- case_id: d1
+  case_title: "部署项目Vue_IPFS"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[1]/div[2]/label[3]/label[3]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[2]/div/div[4]/div[2]/div[1]/div',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[2]/div/div[4]/div[2]/div[2]',em4: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]',em6: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[4]',em7: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[2]/div[1]'}
+  url: https://develop.hamster.newtouch.com/projects
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Successful',"tx2": 'FrontEnd_IPFS_Vue1',"tx3": 'http://g.alpha.hamsternet.io/ipfs/QmR1XAGwW3NA52ZwMC2D4khunDL38A82ik79gSLKCre2CB' }
+
+- case_id: d2
+  case_title: "部署项目React"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[2]/label[3]/label[3]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[2]/div/div[4]/div[2]/div[1]/div',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[2]/div/div[4]/div[2]/div[2]',em4: '//*[@id="layout-default"]/section/main/div/div[1]/div[2]/button',em5: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]',em6: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[4]',em7: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[2]/div[2]/div[2]/div[1]'}
+  url: https://develop.hamster.newtouch.com/projects
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Successful',"tx2": 'FrontEnd_IPFS_React',"tx3": 'http://g.alpha.hamsternet.io/ipfs/QmVGJCSbL4KryGNzR1Uuirh9ajYqssg7s25tnGToXZQtph' }

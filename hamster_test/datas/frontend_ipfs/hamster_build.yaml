@@ -1,0 +1,18 @@
+---
+- case_id: b1
+  case_title: "检查项目Vue_IPFS"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[1]/div[2]/label[2]/label[3]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[2]/div/div[3]/div[2]/div',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div[2]/div/div[3]/div[3]/div' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_IPFS_Vue1"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Deploy Now',"tx2": 'Deploy',"tx3": 'Download ABI' }
+
+- case_id: b2
+  case_title: "检查项目React_IPFS"
+  element: { em1: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[1]/div[2]/label[2]/label[3]',em2: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[2]/div/div[3]/div[2]/div',em3: '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/div/div[2]/div/div[3]/div[3]/div' }
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_IPFS_React"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Deploy Now',"tx2": 'Deploy',"tx3": 'Download ABI' }

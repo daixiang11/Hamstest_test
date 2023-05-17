@@ -1,0 +1,14 @@
+---
+- case_id: 1
+  case_title: "创建IPFS项目Vue"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_IPFS_Vue_z"
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: "Vue"
+
+- case_id: 2
+  case_title: "创建IPFS项目React"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "FrontEnd_IPFS_React_z"
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: "React"

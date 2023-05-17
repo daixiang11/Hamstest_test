@@ -1,0 +1,37 @@
+---
+#- case_id: 1
+#  case_title: "部署项目ERC4907"
+#  url: https://develop.hamster.newtouch.com/projects
+#  case_data: 'Contract_EVM_ERC4907_z'
+#  new_url: https://develop.hamster.newtouch.com/projects
+#  text: {  "tx1": 'Send', "tx2": 'Call'  }
+
+- case_id: 2
+  case_title: "部署项目NFT"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_NFT_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: {  "tx1": 'Send', "tx2": 'Call'  }
+
+- case_id: 3
+  case_title: "部署项目Edition"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_Edition_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: {  "tx1": 'Send', "tx2": 'Call'  }
+
+- case_id: 4
+  case_title: "部署项目ERC721"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_ERC721_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: {  "tx1": 'Send', "tx2": 'Call' }
+
+- case_id: 5
+  case_title: "部署项目token"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_token_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": 'Send', "tx2": 'Call' }
+
+...

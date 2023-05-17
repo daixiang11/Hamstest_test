@@ -1,0 +1,46 @@
+---
+- case_id: 1
+  case_title: "创建项目ERC4907"
+  em: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/div[1]/div[3]/div[1]'
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "Contract_EVM_ERC4907_z"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": "Contract_EVM_ERC4907_z"}
+
+- case_id: 2
+  case_title: "创建项目NFT"
+  em: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[1]/div[3]/div[2]'
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "Contract_EVM_NFT_z"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": "Contract_EVM_NFT_z"}
+
+- case_id: 3
+  case_title: "创建项目Edition"
+  em: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[1]/div[3]/div[3]'
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "Contract_EVM_Edition_z"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": "Contract_EVM_Edition_z"}
+
+- case_id: 4
+  case_title: "创建项目ERX721"
+  em: '//*[@id="layout-default"]/section/main/div/div[2]/div/div[1]/div[3]/div[4]'
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "Contract_EVM_ERC721_z"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": "Contract_EVM_ERC721_z"}
+
+- case_id: 5
+  case_title: "创建项目token"
+  em: '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/div[4]/div[3]/div'
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: "Contract_EVM_token_z"
+  expect: 'Hamster'
+  new_url: https://develop.hamster.newtouch.com/projects
+  text: { "tx1": "Contract_EVM_token_z"}
+...

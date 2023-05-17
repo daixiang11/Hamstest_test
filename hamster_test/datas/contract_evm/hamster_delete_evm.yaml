@@ -1,0 +1,30 @@
+---
+- case_id: 01
+  case_title: "删除项目ERC4907"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_ERC4907_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+
+- case_id: 02
+  case_title: "删除项目NFT"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_NFT_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+
+- case_id: 03
+  case_title: "删除项目Edition"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_Edition_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+
+- case_id: 04
+  case_title: "删除项目ERC721"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_ERC721_z'
+  new_url: https://develop.hamster.newtouch.com/projects
+
+- case_id: 05
+  case_title: "删除项目token"
+  url: https://develop.hamster.newtouch.com/projects
+  case_data: 'Contract_EVM_token_z'
+  new_url: https://develop.hamster.newtouch.com/projects
