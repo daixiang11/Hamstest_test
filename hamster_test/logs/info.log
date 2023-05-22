@@ -1,5 +1,2 @@
-2023-05-17 15:25:50,560 - [test_contract_evm.py - 52] - INFO:测试编号:1,测试标题:创建项目ERC4907,执行成功！
-2023-05-17 15:26:28,114 - [test_contract_evm.py - 52] - INFO:测试编号:2,测试标题:创建项目NFT,执行成功！
-2023-05-17 15:27:10,705 - [test_contract_evm.py - 52] - INFO:测试编号:3,测试标题:创建项目Edition,执行成功！
-2023-05-17 15:27:55,147 - [test_contract_evm.py - 52] - INFO:测试编号:4,测试标题:创建项目ERX721,执行成功！
-2023-05-17 15:28:43,175 - [test_contract_evm.py - 52] - INFO:测试编号:5,测试标题:创建项目token,执行成功！
+2023-05-22 09:59:54,321 - [connectionpool.py - 812] - WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C5C4CE3100>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/173d3e9ca7a70536cf48729821180299
+2023-05-22 09:59:58,392 - [connectionpool.py - 812] - WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C5C4ECCCA0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/173d3e9ca7a70536cf48729821180299
