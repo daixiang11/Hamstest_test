@@ -5,46 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2404d9ad-a219-4900-983f-290df14e7d4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Hamster_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamster_test/datas/hamster_login.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hamster_test/datas/hamster_login.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamster_test/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/hamster_test/logs/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamster_test/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/hamster_test/logs/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hamster_test/reports/allure_html/export/influxDbData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/02772805-0971-4d93-8729-ab06ed495af8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/0adb7b44-c83e-4dd3-b7f4-37da5c59b192-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/0c45008b-daa7-440d-8cb9-55b176388bd8-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/14a7dcc0-294a-461f-b596-5251e7325991-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/1c4bf8b3-e1af-4885-8eb1-c3a55fa1f4c9-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/21ff1246-aa4c-4aee-bd5e-ceda9035bb68-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/29cfadbe-d068-4152-a2c0-3b63316071dc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/29d669b2-8bfc-46b5-bad9-42ea690d6bb2-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/2d79ee4f-8c81-4e74-8151-1430a458145a-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/2e5f516d-eabd-479f-9c5e-60e00c7cb621-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/2e705a26-c1cf-4f05-8cd8-175ec6c26975-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/3bae0f77-ba71-4a7f-afbc-518cad13e24d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/3d5d8d2c-0700-4fa1-b902-b79192aa430f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/41984ec1-7616-4b8f-9ba1-aa4469c5ee96-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/4fae153a-65e9-4aa1-bc12-7588694d662c-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/6f2779f3-cabe-4a16-8da8-fb78fc95fe7a-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/89b79d24-cee7-4a66-a9e2-a80093693634-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/91fe27bb-84a3-4679-afe5-2665089a0f78-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/97432c76-256d-4efc-86ae-d85a590e00b8-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/a15799c1-bfea-43ea-9147-6f9cb74e8d41-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/a4c17d77-edbd-45b3-9422-80769d039c0e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/b4360c1d-f7b4-4779-956f-a7974e7e3ae2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/c8ee98fd-142a-410c-8066-8a196bb3e635-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/cf9c4e86-467e-4549-81c3-6314306385ed-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/d3518394-b706-40d3-904d-8f2ce8e5a51d-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/d7e11c4a-9e62-4d88-a80b-dfdf8a568624-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/d98f51b3-0758-48c6-af13-b5ac2e8b3b3c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/dca76d8d-6bc0-4263-8a99-782ece54fc22-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/e3a7f874-8936-479f-9695-3b35049f6380-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/e817754f-3a43-4e15-ba44-7ee28908cc91-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/reports/allure_json/fa597c2d-179b-4000-890b-6c53fe7d3783-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamster_test/test_cases/test_contract/test_contract_evm.py" beforeDir="false" afterPath="$PROJECT_DIR$/hamster_test/test_cases/test_contract/test_contract_evm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamster_test/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/hamster_test/run_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamster_test/test_cases/test_login/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/hamster_test/test_cases/test_login/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +28,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HUAWEI/Desktop/Hamster_test",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HUAWEI/Desktop/Hamster_test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python tests.pytest in test_login.py">
+    <configuration name="pytest for test_login.TestLongin.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Hamster_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hamster_test/test_cases/test_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLongin.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Hamster_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hamster_test/test_cases/test_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/hamster_test/test_cases/test_login/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python tests.pytest for test_login.TestLongin.test_search" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -25,9 +25,10 @@ class TestLongin:
         # 获取登录对象
         hm = Login()
         # 登录项目网址
-        hm.geturl("https://hamsternet.io")
+        hm.geturl("https://portal.hamster.newtouch.com")
         # 点击登录页面
-        hm.click(5, '//*[@id="__nuxt"]/div/div[2]/div/div[2]/div/div/div[1]/div[3]/button')
+        hm.click(5, '//*[@id="__nuxt"]/div/div[1]/div/div/div/div[2]/div/button')
+        hm.window(1)
         # 点击github登录
         hm.click(5, "//*[@id='app']/div/div[2]/div[2]/span")
         # 切换至github页面
@@ -42,7 +43,7 @@ class TestLongin:
         time.sleep(3)
         if hm.iselement(5, '//*[@id="js-oauth-authorize-btn"]'):
             hm.click(5, '//*[@id="js-oauth-authorize-btn"]')
-        hm.window(0)
+        hm.window(1)
         # 判断是否在首页，点击返回首页
         if hm.iselement(5, '//*[@id="layout-default"]/section/main/div[1]/div[1]/button'):
             hm.click(5, '//*[@id="layout-default"]/section/main/div[1]/div[1]/button')
@@ -51,6 +52,7 @@ class TestLongin:
         # 获取首页的文本信息
         text = hm.text(5, '//*[@id="layout-default"]/section/main/div/div[2]/div[1]/div')
         logger = get_logger()
+        time.sleep(30)
 
         try:
             assert case['new_url'] in new_url  # 断言URL存在搜索内容

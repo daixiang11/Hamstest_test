@@ -13,5 +13,5 @@ from comms.constants import REPORT_JSON, REPORT_HTML, CASE_LOGIN, CASE_CONTRACT
 # evm模块测试用例：CASE_CONTRACT
 # Frontend_IPFS模块测试用例：CASE_IPFS
 if __name__ == '__main__':
-    pytest.main(['-vs', '--alluredir', REPORT_JSON, '--clean-alluredir', CASE_CONTRACT])
+    pytest.main(['-vs', '--alluredir', REPORT_JSON, '--clean-alluredir', CASE_LOGIN])
     os.system('allure generate %s -o %s --clean' % (REPORT_JSON, REPORT_HTML))

@@ -4,7 +4,7 @@
   url: https://hamsternet.io
   case_data: {"email":"983643937@qq.com","passwd":"Dx3826729"}
   expect: 'Hamster'
-  new_url: https://develop.alpha.hamsternet.io/projects
+  new_url: https://develop.hamster.newtouch.com/projects
   text: {"tx1": "Contract","tx2": "FrontEnd"}
 
 ...
